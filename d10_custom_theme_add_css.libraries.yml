@@ -1,0 +1,5 @@
+# d10_custom_theme_add_css.libraries.yml 
+global-styling:
+  css:
+    theme:
+      css/style.css: {}

@@ -1,0 +1,13 @@
+# d10_custom_theme_add_css.info.yml
+name: D10 Custom Theme (add css)
+type: theme
+description: 'A Drupal 10 custom theme base with custom css.'
+core_version_requirement: '^10'
+base theme: 'false'
+libraries:
+  - d10_custom_theme_add_css/global-styling
+regions:
+  header: 'Header'
+  content: 'Content'
+  sidebar_first: 'Sidebar first'
+  footer: 'Footer'
